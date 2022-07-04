@@ -1,0 +1,27 @@
+program kapoio
+
+declare x,ena ;
+declare q ;
+declare dyo ;
+procedure result( in x , in y){
+q := x + y ;
+}
+{
+
+ena := 4 ;
+
+forcase case(x > 0 or w + k > 2  ){
+    ena  :=x+1 ;
+    dyo:=1 ;
+
+    if(x =3){
+        print(x)
+        ena:=dyo+1 ;
+    }else{
+         dyo:=ena;}
+default q:= z-2 ;
+}
+call result(ena,x);
+print(ena);
+}
+.

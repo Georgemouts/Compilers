@@ -1,0 +1,31 @@
+program kapoio
+declare x,ena,w,k,e,q ;
+declare y,z,dyo,tria ;
+procedure giorgos (in y){
+    declare  kati , kati2;
+
+    }
+function declarations (in x , inout y ){
+    declare  katiallo;
+     return x ;
+    }
+
+{
+if(x +8< q +2   ) {
+    ena := 3;
+
+}else{
+    call declarations(ena , y);
+
+}
+switchcase case(w = 3 or x =<1 ){
+        ena  :=x+1 ;
+        dyo:=1 ;
+}
+       case(x >=q and q <w){
+       k := 2;
+       e := 1 ;
+}
+default q:= z;
+ }
+.

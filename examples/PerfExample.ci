@@ -1,0 +1,46 @@
+program kapoio
+declare x ;
+declare q ;
+declare ena ;
+declare hello;
+
+function giorgos (in hello, inout bye ){
+
+declare as ;
+declare az;
+declare k ;
+declare dyo ;
+
+hello := x + k ;
+return hello ;
+
+}
+procedure kostas (in qwwe, inout weqeq ){
+declare qw ;
+declare tria ;
+declare e ;
+hello := e * qw ;
+as := tria - e  ;
+az :=1 ;
+
+}
+{
+x := 4 ;
+q:=2 ;
+call kostas( x ,y);
+incase case( q= 3 or x =<1  ){
+        ena :=x+1 ;
+        dyo:=1 ;
+        tria : =2;
+}
+       case(x >q and x <2 ){
+       k := 2;
+       e := 1 ;
+       print(x);
+}
+default q:= z-2 ;
+print(ena);
+
+}
+
+.
