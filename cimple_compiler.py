@@ -1944,5 +1944,5 @@ def storerv(r,v):
         assFile.write("sw $t"+str(r) + ",-" + str(entvar.offset) + "($s0)\n")
 
 
-YACC()  # TO YACC EXEI MESA TOU EXIT 1 POU ME BGAZEI APO TO PROGRAMMA
+YACC()  
 #CFILE()
