@@ -1,0 +1,31 @@
+program kapoio
+declare x,ena,e ;
+declare y,q,k,dyo ;
+procedure add(in x ){
+ena:= y +q ;
+x := ena +e ;
+
+}
+
+{
+call add(x);
+q:=2 ;
+incase case( q= 3 or x =<1  ){
+        ena  :=x+1 ;
+        dyo:=1 ;
+}
+       case(x >q and x <2 ){
+       k := 2;
+       e := 1 ;
+        print(x)
+}
+default q:= z-2 ;
+if(x +8< q +2   ) {
+    ena := 3;
+
+}else{
+ ena: = dyo ;
+}
+print(ena);
+}
+.
